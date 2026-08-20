@@ -1,0 +1,592 @@
+{
+  "profile": {
+    "name": "Shohail Aamil",
+    "headline": "Full Stack Engineer | Azure Cloud Enthusiast | .NET & Angular",
+    "currentRole": "Senior Software Engineer",
+    "summary": "Innovative and passionate software engineer with experience building full-stack enterprise applications, APIs, reusable components, integrations, and cloud-based solutions. Dedicated, adaptable, and comfortable collaborating in challenging Agile environments.",
+    "location": "Sri Lanka",
+    "email": "aamilshohail@gmail.com",
+    "availability": "Open to professional networking and meaningful engineering opportunities",
+    "resumeUrl": "/assets/documents/shohail-aamil-resume.pdf"
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aamilshohail",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/AamilShohail",
+      "icon": "github"
+    },
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@aamilshohail",
+      "icon": "medium"
+    },
+    {
+      "platform": "About.me",
+      "url": "https://about.me/aamilshohail",
+      "icon": "globe"
+    },
+    {
+      "platform": "NuGet",
+      "url": "https://www.nuget.org/packages/Extension.Helpers.Lib",
+      "icon": "package"
+    }
+  ],
+  "skillGroups": [
+    {
+      "name": "Programming Languages",
+      "skills": [
+        "C#",
+        "C",
+        "JavaScript",
+        "TypeScript",
+        "VB.NET"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        ".NET 9",
+        ".NET 8",
+        ".NET Core",
+        "ASP.NET Core",
+        "ASP.NET MVC",
+        "Web API",
+        "RESTful APIs",
+        "Entity Framework",
+        "GraphQL",
+        "Hangfire"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "skills": [
+        "Angular",
+        "React",
+        "HTML5",
+        "CSS3",
+        "SCSS",
+        "Bootstrap",
+        "Angular Material"
+      ]
+    },
+    {
+      "name": "Databases",
+      "skills": [
+        "Microsoft SQL Server",
+        "Azure SQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "skills": [
+        "Microsoft Azure",
+        "Azure DevOps",
+        "CI/CD Pipelines"
+      ]
+    },
+    {
+      "name": "Version Control & Work Management",
+      "skills": [
+        "Git",
+        "GitHub",
+        "TFS",
+        "VSS",
+        "JIRA",
+        "Azure Boards"
+      ]
+    },
+    {
+      "name": "Platforms & Practices",
+      "skills": [
+        "UNIX/Linux",
+        "Agile",
+        "Scrum",
+        "Research and Development",
+        "Software Architecture",
+        "Full-Stack Development"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "company": "ParentPay Lanka Pvt Ltd",
+      "jobTitle": "Senior Software Engineer",
+      "employmentType": "Full-time",
+      "startYear": "2025",
+      "endYear": null,
+      "isCurrent": true,
+      "technologies": [
+        ".NET 9",
+        "Angular 20",
+        "Microsoft SQL Server",
+        "Azure DevOps"
+      ],
+      "highlights": [
+        "Develops and scales enterprise software using modern .NET and Angular technologies.",
+        "Contributes to secure, maintainable, and high-impact solutions for education payment and catering workflows.",
+        "Collaborates in an Agile environment using Azure DevOps and Git."
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Corzent Edge",
+      "jobTitle": "Senior Software Engineer",
+      "employmentType": "Full-time",
+      "startYear": "2024",
+      "endYear": "2025",
+      "isCurrent": false,
+      "technologies": [
+        ".NET 9",
+        "Angular 19",
+        "Microsoft SQL Server",
+        "Azure DevOps",
+        "GraphQL"
+      ],
+      "highlights": [
+        "Designed and delivered full-stack features for project management and contracting applications.",
+        "Built reusable Angular components and scalable .NET APIs.",
+        "Worked with stakeholders and engineering teams in Agile delivery environments."
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Corzent Edge",
+      "jobTitle": "Software Engineer",
+      "employmentType": "Full-time",
+      "startYear": "2022",
+      "endYear": "2024",
+      "isCurrent": false,
+      "technologies": [
+        ".NET 9",
+        "Angular 18",
+        "Microsoft SQL Server",
+        "Azure DevOps",
+        "GraphQL"
+      ],
+      "highlights": [
+        "Developed backend APIs and Angular user interfaces for enterprise contracting products.",
+        "Contributed to scheduling, licensing, project planning, and reusable component solutions.",
+        "Participated in testing, quality assurance, task planning, and customer-focused delivery."
+      ]
+    },
+    {
+      "id": 4,
+      "company": "hSenid Business Solutions",
+      "jobTitle": "Associate Software Engineer",
+      "employmentType": "Full-time",
+      "startYear": "2020",
+      "endYear": "2022",
+      "isCurrent": false,
+      "technologies": [
+        "ASP.NET Core",
+        "Angular 13",
+        ".NET 5",
+        "Web API",
+        "Entity Framework",
+        "Microsoft SQL Server",
+        "Azure DevOps",
+        "VB.NET",
+        "Crystal Reports"
+      ],
+      "highlights": [
+        "Developed enterprise integrations and business applications using .NET, Angular, and SQL Server.",
+        "Implemented payroll integrations, scheduled jobs, reports, and customer-requested enhancements.",
+        "Demonstrated completed solutions to teammates and customers."
+      ]
+    },
+    {
+      "id": 5,
+      "company": "Techylo Solutions",
+      "jobTitle": "Freelance Technical Content Writer",
+      "employmentType": "Freelance",
+      "startYear": "2020",
+      "endYear": "2021",
+      "isCurrent": false,
+      "technologies": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue",
+        "ASP.NET"
+      ],
+      "highlights": [
+        "Created technical content covering modern web development technologies and frameworks."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "University of Moratuwa",
+      "faculty": "Faculty of Engineering",
+      "qualification": "M.Sc. in Computer Science",
+      "specialization": "Software Architecture",
+      "startYear": "2025",
+      "endYear": null,
+      "isCurrent": true
+    },
+    {
+      "id": 2,
+      "institution": "University of Moratuwa",
+      "faculty": "Faculty of Information Technology",
+      "qualification": "B.Sc. (Hons.) in Information Technology",
+      "specialization": null,
+      "startYear": "2017",
+      "endYear": "2021",
+      "isCurrent": false
+    },
+    {
+      "id": 3,
+      "institution": "St. Anne's College, Kurunegala",
+      "faculty": null,
+      "qualification": "Physical Science",
+      "specialization": null,
+      "startYear": "2012",
+      "endYear": "2015",
+      "isCurrent": false
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "slug": "school-catering",
+      "title": "School Catering",
+      "subtitle": "Cashless Education Payment Platform",
+      "period": "2025–2026",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": true,
+      "summary": "A fintech and communication solution used by schools and trusts across the United Kingdom, supporting cashless payments and school catering workflows.",
+      "highlights": [
+        "Engineered and scaled a meal pre-ordering and planning module.",
+        "Helped transition institutions to secure, paperless catering workflows.",
+        "Supported tools for school meals, trips, uniform sales, and family payments.",
+        "Applied RESTful API design and Agile Scrum practices within a high-velocity team."
+      ],
+      "technologies": [
+        ".NET 8 Web API",
+        "Angular 20",
+        "Microsoft SQL Server",
+        "Azure DevOps",
+        "Git",
+        "REST APIs"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/school-catering.webp"
+    },
+    {
+      "id": 2,
+      "slug": "contracting-application",
+      "title": "Contracting Application",
+      "subtitle": "Project Management Tool for Craftsmen",
+      "period": "2024–2025",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": true,
+      "summary": "A project management application for craftsmen that supports large-project management, progress tracking, and collaboration.",
+      "highlights": [
+        "Developed backend and frontend components.",
+        "Helped plan and coordinate project timelines.",
+        "Collaborated with team members and stakeholders.",
+        "Performed testing, quality assurance, user training, and support."
+      ],
+      "technologies": [
+        ".NET 8 Web API",
+        "Angular 17",
+        "Microsoft SQL Server",
+        "REST APIs",
+        "Git",
+        "JIRA",
+        "Agile",
+        "Scrum"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/contracting-application.webp"
+    },
+    {
+      "id": 3,
+      "slug": "devinco",
+      "title": "Devinco",
+      "subtitle": "Reusable Angular Web Component Library",
+      "period": "2024",
+      "role": "Frontend Developer",
+      "category": "Frontend",
+      "featured": true,
+      "summary": "A versatile Angular component library for contracting applications, designed for straightforward integration into existing products.",
+      "highlights": [
+        "Created reusable dropdowns, form fields, modals, and form controls.",
+        "Supported construction bidding, contractor onboarding, and project management use cases."
+      ],
+      "technologies": [
+        "Angular 17",
+        "TypeScript",
+        "Reusable Components"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/devinco.webp"
+    },
+    {
+      "id": 4,
+      "slug": "contracting-planner",
+      "title": "Contracting Planner",
+      "subtitle": "Assignment and Appointment Planner",
+      "period": "2024",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": true,
+      "summary": "A planner application for efficiently scheduling, tracking, and organizing assignments, tasks, and appointments.",
+      "highlights": [
+        "Built features that help users manage commitments and maintain visibility of scheduled work."
+      ],
+      "technologies": [
+        ".NET 8 Web API",
+        "Angular 17",
+        "Microsoft SQL Server"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/contracting-planner.webp"
+    },
+    {
+      "id": 5,
+      "slug": "contracting-licensing",
+      "title": "Contracting Licensing",
+      "subtitle": "Licensing and Resource Management Platform",
+      "period": "2022",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": true,
+      "summary": "A licensing platform that centralizes management of transactions, assignments, appointments, and operational scheduling.",
+      "highlights": [
+        "Implemented an automated scheduler for synchronizing transactions.",
+        "Reduced manual process bottlenecks and supported operational data integrity.",
+        "Applied RESTful architecture and Agile engineering practices."
+      ],
+      "technologies": [
+        ".NET 8 Web API",
+        "Angular 16",
+        "Microsoft SQL Server",
+        "REST APIs"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/contracting-licensing.webp"
+    },
+    {
+      "id": 6,
+      "slug": "anz-payroll-integration",
+      "title": "Payroll Integration for Australia and New Zealand",
+      "subtitle": "People's HR Payroll Integration",
+      "period": "2020–2021",
+      "role": "Software Developer",
+      "category": "Integration",
+      "featured": true,
+      "summary": "A software integration that transfers payroll data between People's HR, Xero Payroll, and New Zealand iPayroll systems.",
+      "highlights": [
+        "Implemented payroll data population across multiple systems.",
+        "Used Hangfire for scheduled background processing.",
+        "Created reports and demonstrated the solution to teammates and customers."
+      ],
+      "technologies": [
+        ".NET Core 3.1",
+        "Custom API",
+        "Microsoft SQL Server",
+        "Crystal Reports",
+        "Azure",
+        "CI/CD",
+        "TFS",
+        "Xero API",
+        "iPayroll API",
+        "Hangfire"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/payroll-integration.webp"
+    },
+    {
+      "id": 7,
+      "slug": "hnb-loan",
+      "title": "HNB Loan",
+      "subtitle": "Loan Management System",
+      "period": "2021",
+      "role": "Software Developer",
+      "category": "Full Stack",
+      "featured": false,
+      "summary": "A loan management system for Hatton National Bank with a loan application portal and application filtering by loan type.",
+      "highlights": [
+        "Developed requested features and incorporated customer feedback during delivery."
+      ],
+      "technologies": [
+        "VB.NET",
+        "Microsoft SQL Server"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/hnb-loan.webp"
+    },
+    {
+      "id": 8,
+      "slug": "irecharge",
+      "title": "iRecharge",
+      "subtitle": "Multi-Network Recharge Platform",
+      "period": "2021",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": false,
+      "summary": "A web and mobile recharge platform supporting telecommunications networks in India and dynamically generated reload and balance APIs.",
+      "highlights": [
+        "Supported web and mobile clients with dynamically generated API operations based on user requests."
+      ],
+      "technologies": [
+        "ASP.NET Core 5 Web API",
+        "Azure SQL",
+        "React Native"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/irecharge.webp"
+    },
+    {
+      "id": 9,
+      "slug": "tour-operator",
+      "title": "Tour Operator",
+      "subtitle": "Tourism Web and Mobile Platform",
+      "period": "2019",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": false,
+      "summary": "Android, iOS, and web applications supporting tourist and administrator interactions, hosted on Microsoft Azure.",
+      "highlights": [
+        "Built a cross-platform experience for tourists and administrators."
+      ],
+      "technologies": [
+        "ASP.NET Web API",
+        "Angular 8",
+        "Microsoft SQL Server",
+        "Android",
+        "Microsoft Azure"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/tour-operator.webp"
+    },
+    {
+      "id": 10,
+      "slug": "web-quiz-application",
+      "title": "Web-Based Quiz Application",
+      "subtitle": "Dynamic Quiz and Results Platform",
+      "period": "2018",
+      "role": "Full-Stack Developer",
+      "category": "Full Stack",
+      "featured": false,
+      "summary": "A quiz application that generates randomized questions from a database and provides attempt results and solutions.",
+      "highlights": [
+        "Implemented random question generation, result calculation, and solution presentation."
+      ],
+      "technologies": [
+        "ASP.NET Web API",
+        "Angular 8",
+        "Microsoft SQL Server"
+      ],
+      "repositoryUrl": null,
+      "liveUrl": null,
+      "imageUrl": "/assets/images/projects/web-quiz.webp"
+    }
+  ],
+  "openSource": [
+    {
+      "id": 1,
+      "name": "Extension.Helpers.Lib",
+      "type": "NuGet Package",
+      "role": "Author & Maintainer",
+      "description": "A high-performance .NET utility library that streamlines common data transformations and helper functions while promoting reusable, modular architecture.",
+      "technologies": [
+        "C#",
+        ".NET",
+        "NuGet"
+      ],
+      "url": "https://www.nuget.org/packages/Extension.Helpers.Lib",
+      "repositoryUrl": null,
+      "compatibility": ".NET 10"
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "title": "HackMoral V2.0 Programming Competition",
+      "organization": "University of Moratuwa",
+      "year": 2018,
+      "result": "Participant"
+    },
+    {
+      "id": 2,
+      "title": "Net Hunter Inter-University Network Competition",
+      "organization": null,
+      "year": 2019,
+      "result": "Second Runners-up"
+    },
+    {
+      "id": 3,
+      "title": "Cyber-Security Competition",
+      "organization": "SLIIT",
+      "year": 2019,
+      "result": "Participant"
+    }
+  ],
+  "strengths": [
+    "Quick learner with a strong interest in technology",
+    "Effective presentation and communication",
+    "Patience and professional courtesy",
+    "Time management and multitasking",
+    "Team collaboration",
+    "Planning and organizing events",
+    "Familiarity with Atmel AVR microcontroller programming environments"
+  ],
+  "extraCurricularActivities": [
+    {
+      "activity": "Secretary of the Islamic Society",
+      "organization": "St. Anne's College",
+      "description": "Supported society administration and event planning."
+    },
+    {
+      "activity": "Team Sports",
+      "organization": null,
+      "description": "Participated as a soccer and cricket team player."
+    }
+  ],
+  "siteSettings": {
+    "brandName": "Shohail Aamil",
+    "navigation": [
+      "About",
+      "Skills",
+      "Experience",
+      "Projects",
+      "Education",
+      "Open Source",
+      "Achievements",
+      "Contact"
+    ],
+    "featuredProjectCount": 6,
+    "showEmail": true,
+    "showResumeDownload": true,
+    "showAchievements": true,
+    "showExtraCurricularActivities": false
+  },
+  "metadata": {
+    "schemaVersion": "1.0.0",
+    "language": "en",
+    "created": "2024-07-29",
+    "lastUpdated": "2026-07-29",
+    "source": "Shohail 26_02.pdf"
+  }
+}
